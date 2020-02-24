@@ -1,1 +1,1 @@
-# Macine-Learning-Lab
+# Machine-Learning-Lab
